@@ -37,7 +37,9 @@ const Validation = () => {
       nameError:
         name.length === 0
           ? 'Name is required'
-          : !name.match(/[a-zA-Z]+ [a-zA-Z]+/)
+          : !name.match(/^[a-zA-Z\d]+(?: [a-zA-Z\d]+)*$/gm)
+          // /^(?!\s).+(?<!\s)$/
+// /^[a-z|A-Z|0-9]+(?: [a-z|A-Z|0-9]+)*$/gm
           ? 'Write last name'
           : '',
     });
