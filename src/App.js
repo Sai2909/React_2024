@@ -1,12 +1,10 @@
-import FetchingData from "./Pagination/FetchingData";
 
-// import Pagi from "./Pagination/Pagi";
+import Applayout from "./Swiggy/Applayout";
 
 function App() {
   return (
     <div className="App">
-      <FetchingData/>
-      {/* <Pagi/> */}
+      <Applayout/>
     </div>
   );
 }

@@ -1,0 +1,57 @@
+.cards {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cards li {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  .cards p {
+    position: relative;
+  }
+  
+  .cards p:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .cards .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .cards img {
+    max-width: 200px;
+  }
+  
+  
+   .cards>ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.mr{
+    margin: 1rem;
+} 
