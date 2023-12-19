@@ -10,7 +10,7 @@ function Body() {
             
             "name": "Dell XPS 13",
             "rating": 4.8,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 1299.99
           },
           {
@@ -22,7 +22,7 @@ function Body() {
           {
             "name": "MacBook Air",
             "rating": 4.7,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 999.99
           },
           {
@@ -34,7 +34,7 @@ function Body() {
           {
             "name": "Asus ROG Zephyrus G14",
             "rating": 4.9,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 1799.99
           },
           {
@@ -46,7 +46,7 @@ function Body() {
           {
             "name": "Microsoft Surface Laptop 4",
             "rating": 4.7,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 1299.99
           },
           {
@@ -64,7 +64,7 @@ function Body() {
           {
             "name": "Samsung Galaxy Book Flex",
             "rating": 4.6,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 1299.99
           },
           {
@@ -76,7 +76,7 @@ function Body() {
           {
             "name": "MSI GS66 Stealth",
             "rating": 4.7,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 1799.99
           },
           {
@@ -88,7 +88,7 @@ function Body() {
           {
             "name": "Lenovo Legion 5",
             "rating": 4.6,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 1299.99
           },
           {
@@ -100,7 +100,7 @@ function Body() {
           {
             "name": "Asus ZenBook 14",
             "rating": 4.5,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 1099.99
           },
           {
@@ -112,7 +112,7 @@ function Body() {
           {
             "name": "Alienware m15 R4",
             "rating": 4.9,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 2499.99
           },
           {
@@ -124,7 +124,7 @@ function Body() {
           {
             "name": "Google Pixelbook Go",
             "rating": 4.4,
-            "image": "https://www.lowyat.net/wp-content/uploads/2023/08/Apple-MacBook-Air-15-review-1.jpg",
+            "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
             "price": 849.99
           },
           {
